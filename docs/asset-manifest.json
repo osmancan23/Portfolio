@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9623a326.css",
+    "main.js": "/portfolio/static/js/main.a56c01ea.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hayalHanem.png": "/portfolio/static/media/hayalHanem.fde887a3aa78a1fb465b.png",
+    "static/media/studiaStudent.png": "/portfolio/static/media/studiaStudent.cf5efffa0d746feb5f71.png",
+    "static/media/studiaTeacher.png": "/portfolio/static/media/studiaTeacher.f950c85662e23fcaeb3b.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/OsmancanAkagunduz-CV.pdf": "/portfolio/static/media/OsmancanAkagunduz-CV.4e2e2a2cb647a349f73d.pdf",
+    "static/media/parea.png": "/portfolio/static/media/parea.e27041ce8a1fee334e8b.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/watchMedia.png": "/portfolio/static/media/watchMedia.cee296a53a750af2e09f.png",
+    "static/media/momsSeller.png": "/portfolio/static/media/momsSeller.62c78209884d24091f18.png",
+    "static/media/teamApp.jpeg": "/portfolio/static/media/teamApp.e9368f386fa44b9f3c62.jpeg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/petros.jpg": "/portfolio/static/media/petros.a1e538555e2be3e2f7f1.jpg",
+    "index.html": "/portfolio/index.html",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "main.9623a326.css.map": "/portfolio/static/css/main.9623a326.css.map",
+    "main.a56c01ea.js.map": "/portfolio/static/js/main.a56c01ea.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9623a326.css",
+    "static/js/main.a56c01ea.js"
+  ]
+}
